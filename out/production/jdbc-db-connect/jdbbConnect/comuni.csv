@@ -1,0 +1,1001 @@
+﻿ID;name;slug;lat;lng;codice_provincia_istat;codice_comune_istat;codice_alfanumerico_istat;capoluogo_provincia;capoluogo_regione
+1;Agliè;aglie;453.681;77.681;1;1;1001;0;0
+2;Airasca;airasca;449.181;74.855;1;2;1002;0;0
+3;Ala di Stura;ala-di-stura;453.154;73.026;1;3;1003;0;0
+4;Albiano d'Ivrea;albiano-divrea;454.339;79.517;1;4;1004;0;0
+5;Alice Superiore;alice-superiore;454.599;77.774;1;5;1005;0;0
+6;Almese;almese;451.169;73.954;1;6;1006;0;0
+7;Alpette;alpette;454.106;75.808;1;7;1007;0;0
+8;Alpignano;alpignano;450.943;75.244;1;8;1008;0;0
+9;Andezeno;andezeno;450.373;78.731;1;9;1009;0;0
+10;Andrate;andrate;455.285;78.814;1;10;1010;0;0
+11;Angrogna;angrogna;448.438;72.246;1;11;1011;0;0
+12;Arignano;arignano;450.438;79.011;1;12;1012;0;0
+13;Avigliana;avigliana;450.793;73.967;1;13;1013;0;0
+14;Azeglio;azeglio;454.246;7.995;1;14;1014;0;0
+15;Bairo;bairo;45.387;77.564;1;15;1015;0;0
+16;Balangero;balangero;452.714;75.186;1;16;1016;0;0
+17;Baldissero Canavese;baldissero-canavese;454.112;77.453;1;17;1017;0;0
+18;Baldissero Torinese;baldissero-torinese;450.685;7.817;1;18;1018;0;0
+19;Balme;balme;453.022;72.181;1;19;1019;0;0
+20;Banchette;banchette;454.545;78.575;1;20;1020;0;0
+21;Barbania;barbania;452.924;76.314;1;21;1021;0;0
+22;Bardonecchia;bardonecchia;450.788;67.043;1;22;1022;0;0
+23;Barone Canavese;barone-canavese;453.267;78.745;1;23;1023;0;0
+24;Beinasco;beinasco;450.228;75.878;1;24;1024;0;0
+25;Bibiana;bibiana;44.8;72.894;1;25;1025;0;0
+26;Bobbio Pellice;bobbio-pellice;448.078;71.178;1;26;1026;0;0
+27;Bollengo;bollengo;454.703;79.466;1;27;1027;0;0
+28;Borgaro Torinese;borgaro-torinese;451.517;76.578;1;28;1028;0;0
+29;Borgiallo;borgiallo;454.181;76.697;1;29;1029;0;0
+30;Borgofranco d'Ivrea;borgofranco-divrea;455.139;78.592;1;30;1030;0;0
+31;Borgomasino;borgomasino;453.642;79.888;1;31;1031;0;0
+32;Borgone Susa;borgone-susa;451.212;72.398;1;32;1032;0;0
+33;Bosconero;bosconero;45.268;77.641;1;33;1033;0;0
+34;Brandizzo;brandizzo;451.783;78.389;1;34;1034;0;0
+35;Bricherasio;bricherasio;448.245;73.066;1;35;1035;0;0
+36;Brosso;brosso;45.494;78.039;1;36;1036;0;0
+37;Brozolo;brozolo;451.177;80.725;1;37;1037;0;0
+38;Bruino;bruino;450.212;74.646;1;38;1038;0;0
+39;Brusasco;brusasco;451.558;80.595;1;39;1039;0;0
+40;Bruzolo;bruzolo;451.434;71.938;1;40;1040;0;0
+41;Buriasco;buriasco;448.747;74.114;1;41;1041;0;0
+42;Burolo;burolo;454.822;7.935;1;42;1042;0;0
+43;Busano;busano;453.331;76.571;1;43;1043;0;0
+44;Bussoleno;bussoleno;451.414;71.475;1;44;1044;0;0
+45;Buttigliera Alta;buttigliera-alta;45.071;74.295;1;45;1045;0;0
+46;Cafasse;cafasse;452.461;75.184;1;46;1046;0;0
+47;Caluso;caluso;453.059;78.969;1;47;1047;0;0
+48;Cambiano;cambiano;449.694;77.731;1;48;1048;0;0
+49;Campiglione-Fenile;campiglione-fenile;448.025;73.235;1;49;1049;0;0
+50;Candia Canavese;candia-canavese;453.288;78.863;1;50;1050;0;0
+51;Candiolo;candiolo;449.603;76.028;1;51;1051;0;0
+52;Canischio;canischio;453.745;75.958;1;52;1052;0;0
+53;Cantalupa;cantalupa;44.947;73.314;1;53;1053;0;0
+54;Cantoira;cantoira;453.395;7.387;1;54;1054;0;0
+55;Caprie;caprie;451.198;73.331;1;55;1055;0;0
+56;Caravino;caravino;453.992;79.614;1;56;1056;0;0
+57;Carema;carema;455.845;78.119;1;57;1057;0;0
+58;Carignano;carignano;44.908;76.744;1;58;1058;0;0
+59;Carmagnola;carmagnola;448.455;77.192;1;59;1059;0;0
+60;Casalborgone;casalborgone;451.312;79.414;1;60;1060;0;0
+61;Cascinette d'Ivrea;cascinette-divrea;454.813;79.067;1;61;1061;0;0
+62;Caselette;caselette;451.058;74.821;1;62;1062;0;0
+63;Caselle Torinese;caselle-torinese;451.774;76.475;1;63;1063;0;0
+64;Castagneto Po;castagneto-po;451.603;78.906;1;64;1064;0;0
+65;Castagnole Piemonte;castagnole-piemonte;448.992;75.674;1;65;1065;0;0
+66;Castellamonte;castellamonte;45.383;77.133;1;66;1066;0;0
+67;Castelnuovo Nigra;castelnuovo-nigra;454.392;76.958;1;67;1067;0;0
+68;Castiglione Torinese;castiglione-torinese;451.202;78.155;1;68;1068;0;0
+69;Cavagnolo;cavagnolo;451.529;80.501;1;69;1069;0;0
+70;Cavour;cavour;447.857;7.375;1;70;1070;0;0
+71;Cercenasco;cercenasco;448.606;75.049;1;71;1071;0;0
+72;Ceres;ceres;45.313;73.889;1;72;1072;0;0
+73;Ceresole Reale;ceresole-reale;454.325;72.361;1;73;1073;0;0
+74;Cesana Torinese;cesana-torinese;449.529;67.937;1;74;1074;0;0
+75;Chialamberto;chialamberto;453.641;73.406;1;75;1075;0;0
+76;Chianocco;chianocco;451.483;71.687;1;76;1076;0;0
+77;Chiaverano;chiaverano;454.986;79.048;1;77;1077;0;0
+78;Chieri;chieri;450.116;78.229;1;78;1078;0;0
+79;Chiesanuova;chiesanuova;38.018;126.594;1;79;1079;0;0
+80;Chiomonte;chiomonte;451.192;69.815;1;80;1080;0;0
+81;Chiusa di San Michele;chiusa-di-san-michele;451.053;73.283;1;81;1081;0;0
+82;Chivasso;chivasso;451.899;78.843;1;82;1082;0;0
+83;Ciconio;ciconio;453.312;77.597;1;83;1083;0;0
+84;Cintano;cintano;454.285;76.903;1;84;1084;0;0
+85;Cinzano;cinzano;450.953;79.267;1;85;1085;0;0
+86;Ciriè;cirie;452.336;76.046;1;86;1086;0;0
+87;Claviere;claviere;449.388;67.503;1;87;1087;0;0
+88;Coassolo Torinese;coassolo-torinese;452.988;74.616;1;88;1088;0;0
+89;Coazze;coazze;450.556;73.081;1;89;1089;0;0
+90;Collegno;collegno;450.777;75.704;1;90;1090;0;0
+91;Colleretto Castelnuovo;colleretto-castelnuovo;454.235;76.809;1;91;1091;0;0
+92;Colleretto Giacosa;colleretto-giacosa;454.339;77.997;1;92;1092;0;0
+93;Condove;condove;451.185;73.088;1;93;1093;0;0
+94;Corio;corio;453.149;75.335;1;94;1094;0;0
+95;Cossano Canavese;cossano-canavese;453.888;79.927;1;95;1095;0;0
+96;Cuceglio;cuceglio;453.604;78.163;1;96;1096;0;0
+97;Cumiana;cumiana;449.808;73.778;1;97;1097;0;0
+98;Cuorgnè;cuorgne;453.907;76.496;1;98;1098;0;0
+99;Druento;druento;451.343;75.765;1;99;1099;0;0
+100;Exilles;exilles;450.986;69.303;1;100;1100;0;0
+101;Favria;favria;453.322;76.917;1;101;1101;0;0
+102;Feletto;feletto;453.048;7.746;1;102;1102;0;0
+103;Fenestrelle;fenestrelle;450.345;70.522;1;103;1103;0;0
+104;Fiano;fiano;452.178;75.239;1;104;1104;0;0
+105;Fiorano Canavese;fiorano-canavese;454.688;78.349;1;105;1105;0;0
+106;Foglizzo;foglizzo;45.273;78.209;1;106;1106;0;0
+107;Forno Canavese;forno-canavese;453.464;75.922;1;107;1107;0;0
+108;Frassinetto;frassinetto;454.378;76.078;1;108;1108;0;0
+109;Front;front;452.819;76.641;1;109;1109;0;0
+110;Frossasco;frossasco;449.341;73.513;1;110;1110;0;0
+111;Garzigliana;garzigliana;448.371;73.741;1;111;1111;0;0
+112;Gassino Torinese;gassino-torinese;451.298;78.243;1;112;1112;0;0
+113;Germagnano;germagnano;452.648;74.706;1;113;1113;0;0
+114;Giaglione;giaglione;451.362;70.087;1;114;1114;0;0
+115;Giaveno;giaveno;450.418;73.525;1;115;1115;0;0
+116;Givoletto;givoletto;451.608;7.495;1;116;1116;0;0
+117;Gravere;gravere;451.267;7.019;1;117;1117;0;0
+118;Groscavallo;groscavallo;453.684;72.591;1;118;1118;0;0
+119;Grosso;grosso;452.575;75.584;1;119;1119;0;0
+120;Grugliasco;grugliasco;450.623;75.783;1;120;1120;0;0
+121;Ingria;ingria;454.663;75.712;1;121;1121;0;0
+122;Inverso Pinasca;inverso-pinasca;44.945;72.181;1;122;1122;0;0
+123;Isolabella;isolabella;449.075;79.102;1;123;1123;0;0
+124;Issiglio;issiglio;454.463;77.553;1;124;1124;0;0
+125;Ivrea;ivrea;454.666;78.759;1;125;1125;0;0
+126;La Cassa;la-cassa;451.814;75.175;1;126;1126;0;0
+127;La Loggia;la-loggia;449.588;76.684;1;127;1127;0;0
+128;Lanzo Torinese;lanzo-torinese;452.741;74.812;1;128;1128;0;0
+129;Lauriano;lauriano;451.592;79.928;1;129;1129;0;0
+130;Leini;leini;451.838;77.153;1;130;1130;0;0
+131;Lemie;lemie;452.289;72.942;1;131;1131;0;0
+132;Lessolo;lessolo;45.476;78.137;1;132;1132;0;0
+133;Levone;levone;453.177;76.075;1;133;1133;0;0
+134;Locana;locana;454.163;7.46;1;134;1134;0;0
+135;Lombardore;lombardore;452.364;77.414;1;135;1135;0;0
+136;Lombriasco;lombriasco;448.422;76.367;1;136;1136;0;0
+137;Loranzè;loranze;454.427;78.139;1;137;1137;0;0
+138;Lugnacco;lugnacco;454.445;77.818;1;138;1138;0;0
+139;Luserna San Giovanni;luserna-san-giovanni;448.085;72.454;1;139;1139;0;0
+140;Lusernetta;lusernetta;448.025;72.487;1;140;1140;0;0
+141;Lusigliè;lusiglie;453.196;77.658;1;141;1141;0;0
+142;Macello;macello;448.522;73.992;1;142;1142;0;0
+143;Maglione;maglione;453.477;80.146;1;143;1143;0;0
+144;Marentino;marentino;450.563;78.781;1;144;1144;0;0
+145;Massello;massello;449.586;70.566;1;145;1145;0;0
+146;Mathi;mathi;452.563;75.431;1;146;1146;0;0
+147;Mattie;mattie;451.192;71.163;1;147;1147;0;0
+148;Mazzè;mazze;453.012;79.339;1;148;1148;0;0
+149;Meana di Susa;meana-di-susa;451.231;70.629;1;149;1149;0;0
+150;Mercenasco;mercenasco;453.575;78.813;1;150;1150;0;0
+151;Meugliano;meugliano;454.904;77.795;1;151;1151;0;0
+152;Mezzenile;mezzenile;45.296;73.967;1;152;1152;0;0
+153;Mombello di Torino;mombello-di-torino;450.464;79.212;1;153;1153;0;0
+154;Mompantero;mompantero;451.486;70.419;1;154;1154;0;0
+155;Monastero di Lanzo;monastero-di-lanzo;453.016;74.404;1;155;1155;0;0
+156;Moncalieri;moncalieri;449.994;76.801;1;156;1156;0;0
+157;Moncenisio;moncenisio;452.033;69.843;1;157;1157;0;0
+158;Montaldo Torinese;montaldo-torinese;450.664;78.514;1;158;1158;0;0
+159;Montalenghe;montalenghe;453.384;7.84;1;159;1159;0;0
+160;Montalto Dora;montalto-dora;454.917;78.639;1;160;1160;0;0
+161;Montanaro;montanaro;452.345;78.546;1;161;1161;0;0
+162;Monteu da Po;monteu-da-po;451.516;80.181;1;162;1162;0;0
+163;Moriondo Torinese;moriondo-torinese;450.388;79.413;1;163;1163;0;0
+164;Nichelino;nichelino;449.951;76.471;1;164;1164;0;0
+165;Noasca;noasca;454.547;73.134;1;165;1165;0;0
+166;Nole;nole;452.424;75.742;1;166;1166;0;0
+167;Nomaglio;nomaglio;45.536;78.603;1;167;1167;0;0
+168;None;none;449.342;75.413;1;168;1168;0;0
+169;Novalesa;novalesa;451.912;70.148;1;169;1169;0;0
+170;Oglianico;oglianico;453.434;76.958;1;170;1170;0;0
+171;Orbassano;orbassano;450.074;75.374;1;171;1171;0;0
+172;Orio Canavese;orio-canavese;453.303;78.628;1;172;1172;0;0
+173;Osasco;osasco;448.484;73.438;1;173;1173;0;0
+174;Osasio;osasio;448.725;76.092;1;174;1174;0;0
+175;Oulx;oulx;450.333;68.336;1;175;1175;0;0
+176;Ozegna;ozegna;45.35;77.464;1;176;1176;0;0
+177;Palazzo Canavese;palazzo-canavese;454.586;79.797;1;177;1177;0;0
+178;Pancalieri;pancalieri;448.346;7.587;1;178;1178;0;0
+179;Parella;parella;454.303;77.942;1;179;1179;0;0
+180;Pavarolo;pavarolo;450.695;78.362;1;180;1180;0;0
+181;Pavone Canavese;pavone-canavese;454.354;78.529;1;181;1181;0;0
+182;Pecco;pecco;454.518;77.772;1;182;1182;0;0
+183;Pecetto Torinese;pecetto-torinese;450.172;77.504;1;183;1183;0;0
+184;Perosa Argentina;perosa-argentina;449.569;71.919;1;184;1184;0;0
+185;Perosa Canavese;perosa-canavese;453.981;78.321;1;185;1185;0;0
+186;Perrero;perrero;449.383;71.148;1;186;1186;0;0
+187;Pertusio;pertusio;453.567;76.427;1;187;1187;0;0
+188;Pessinetto;pessinetto;452.892;74.039;1;188;1188;0;0
+189;Pianezza;pianezza;450.986;75.484;1;189;1189;0;0
+190;Pinasca;pinasca;449.424;72.275;1;190;1190;0;0
+191;Pinerolo;pinerolo;448.846;73.309;1;191;1191;0;0
+192;Pino Torinese;pino-torinese;450.406;77.783;1;192;1192;0;0
+193;Piobesi Torinese;piobesi-torinese;449.339;76.113;1;193;1193;0;0
+194;Piossasco;piossasco;449.911;74.635;1;194;1194;0;0
+195;Piscina;piscina;44.913;73.647;1;195;1195;0;0
+196;Piverone;piverone;454.474;80.069;1;196;1196;0;0
+197;Poirino;poirino;449.219;78.481;1;197;1197;0;0
+198;Pomaretto;pomaretto;44.956;71.829;1;198;1198;0;0
+199;Pont-Canavese;pont-canavese;454.239;75.974;1;199;1199;0;0
+200;Porte;porte;448.879;72.703;1;200;1200;0;0
+201;Pragelato;pragelato;450.155;6.942;1;201;1201;0;0
+202;Prali;prali;448.891;70.489;1;202;1202;0;0
+203;Pralormo;pralormo;448.608;79.025;1;203;1203;0;0
+204;Pramollo;pramollo;44.904;72.146;1;204;1204;0;0
+205;Prarostino;prarostino;448.666;72.684;1;205;1205;0;0
+206;Prascorsano;prascorsano;453.688;76.181;1;206;1206;0;0
+207;Pratiglione;pratiglione;453.536;75.962;1;207;1207;0;0
+208;Quagliuzzo;quagliuzzo;454.278;77.834;1;208;1208;0;0
+209;Quassolo;quassolo;455.239;78.334;1;209;1209;0;0
+210;Quincinetto;quincinetto;455.622;78.075;1;210;1210;0;0
+211;Reano;reano;450.522;74.302;1;211;1211;0;0
+212;Ribordone;ribordone;454.332;75.026;1;212;1212;0;0
+213;Rivalba;rivalba;451.194;78.892;1;213;1213;0;0
+214;Rivalta di Torino;rivalta-di-torino;45.033;75.232;1;214;1214;0;0
+215;Riva presso Chieri;riva-presso-chieri;449.859;78.734;1;215;1215;0;0
+216;Rivara;rivara;453.334;76.258;1;216;1216;0;0
+217;Rivarolo Canavese;rivarolo-canavese;45.332;77.232;1;217;1217;0;0
+218;Rivarossa;rivarossa;452.527;77.159;1;218;1218;0;0
+219;Rivoli;rivoli;450.705;75.192;1;219;1219;0;0
+220;Robassomero;robassomero;452.007;75.686;1;220;1220;0;0
+221;Rocca Canavese;rocca-canavese;453.108;75.774;1;221;1221;0;0
+222;Roletto;roletto;449.251;73.309;1;222;1222;0;0
+223;Romano Canavese;romano-canavese;453.902;78.655;1;223;1223;0;0
+224;Ronco Canavese;ronco-canavese;454.997;75.473;1;224;1224;0;0
+225;Rondissone;rondissone;452.478;79.642;1;225;1225;0;0
+226;Rorà;rora;447.931;72.002;1;226;1226;0;0
+227;Roure;roure;450.022;71.284;1;227;1227;0;0
+228;Rosta;rosta;450.689;74.663;1;228;1228;0;0
+229;Rubiana;rubiana;451.388;73.827;1;229;1229;0;0
+230;Rueglio;rueglio;45.468;77.561;1;230;1230;0;0
+231;Salassa;salassa;453.567;76.903;1;231;1231;0;0
+232;Salbertrand;salbertrand;450.732;68.842;1;232;1232;0;0
+233;Salerano Canavese;salerano-canavese;454.588;78.512;1;233;1233;0;0
+234;Salza di Pinerolo;salza-di-pinerolo;44.941;70.536;1;234;1234;0;0
+235;Samone;samone;460.813;115.212;1;235;1235;0;0
+236;San Benigno Canavese;san-benigno-canavese;452.281;77.863;1;236;1236;0;0
+237;San Carlo Canavese;san-carlo-canavese;452.456;76.069;1;237;1237;0;0
+238;San Colombano Belmonte;san-colombano-belmonte;45.383;7.623;1;238;1238;0;0
+239;San Didero;san-didero;451.354;72.147;1;239;1239;0;0
+240;San Francesco al Campo;san-francesco-al-campo;452.295;76.533;1;240;1240;0;0
+241;Sangano;sangano;45.027;74.505;1;241;1241;0;0
+242;San Germano Chisone;san-germano-chisone;449.031;72.378;1;242;1242;0;0
+243;San Gillio;san-gillio;451.438;75.371;1;243;1243;0;0
+244;San Giorgio Canavese;san-giorgio-canavese;453.352;7.798;1;244;1244;0;0
+245;San Giorio di Susa;san-giorio-di-susa;451.292;71.794;1;245;1245;0;0
+246;San Giusto Canavese;san-giusto-canavese;453.163;78.103;1;246;1246;0;0
+247;San Martino Canavese;san-martino-canavese;453.961;78.178;1;247;1247;0;0
+248;San Maurizio Canavese;san-maurizio-canavese;452.181;76.317;1;248;1248;0;0
+249;San Mauro Torinese;san-mauro-torinese;451.019;77.656;1;249;1249;0;0
+250;San Pietro Val Lemina;san-pietro-val-lemina;449.075;7.312;1;250;1250;0;0
+251;San Ponso;san-ponso;453.508;76.709;1;251;1251;0;0
+252;San Raffaele Cimena;san-raffaele-cimena;451.688;7.859;1;252;1252;0;0
+253;San Sebastiano da Po;san-sebastiano-da-po;451.683;79.583;1;253;1253;0;0
+254;San Secondo di Pinerolo;san-secondo-di-pinerolo;448.675;72.995;1;254;1254;0;0
+255;Sant'Ambrogio di Torino;santambrogio-di-torino;450.978;73.622;1;255;1255;0;0
+256;Sant'Antonino di Susa;santantonino-di-susa;451.081;72.749;1;256;1256;0;0
+257;Santena;santena;44.949;77.728;1;257;1257;0;0
+258;Sauze di Cesana;sauze-di-cesana;449.417;68.602;1;258;1258;0;0
+259;Sauze d'Oulx;sauze-doulx;450.275;68.596;1;259;1259;0;0
+260;Scalenghe;scalenghe;448.873;74.968;1;260;1260;0;0
+261;Scarmagno;scarmagno;453.855;78.424;1;261;1261;0;0
+262;Sciolze;sciolze;450.942;78.816;1;262;1262;0;0
+263;Sestriere;sestriere;449.569;68.801;1;263;1263;0;0
+264;Settimo Rottaro;settimo-rottaro;454.092;79.938;1;264;1264;0;0
+265;Settimo Torinese;settimo-torinese;451.371;77.709;1;265;1265;0;0
+266;Settimo Vittone;settimo-vittone;455.508;78.335;1;266;1266;0;0
+267;Sparone;sparone;454.148;75.445;1;267;1267;0;0
+268;Strambinello;strambinello;45.424;77.721;1;268;1268;0;0
+269;Strambino;strambino;453.816;78.848;1;269;1269;0;0
+270;Susa;susa;451.385;70.484;1;270;1270;0;0
+271;Tavagnasco;tavagnasco;45.546;78.239;1;271;1271;0;0
+272;Torino;torino;45.05;76.667;1;272;1272;1;1
+273;Torrazza Piemonte;torrazza-piemonte;452.164;79.778;1;273;1273;0;0
+274;Torre Canavese;torre-canavese;453.931;77.609;1;274;1274;0;0
+275;Torre Pellice;torre-pellice;448.206;72.237;1;275;1275;0;0
+276;Trana;trana;45.04;7.423;1;276;1276;0;0
+277;Trausella;trausella;454.908;77.632;1;277;1277;0;0
+278;Traversella;traversella;455.096;77.506;1;278;1278;0;0
+279;Traves;traves;452.683;74.308;1;279;1279;0;0
+280;Trofarello;trofarello;449.847;77.464;1;280;1280;0;0
+281;Usseaux;usseaux;450.486;70.267;1;281;1281;0;0
+282;Usseglio;usseglio;452.328;72.172;1;282;1282;0;0
+283;Vaie;vaie;451.016;72.898;1;283;1283;0;0
+284;Val della Torre;val-della-torre;451.563;74.463;1;284;1284;0;0
+285;Valgioie;valgioie;450.761;73.407;1;285;1285;0;0
+286;Vallo Torinese;vallo-torinese;452.245;74.975;1;286;1286;0;0
+287;Valperga;valperga;453.701;76.579;1;287;1287;0;0
+288;Valprato Soana;valprato-soana;455.222;75.502;1;288;1288;0;0
+289;Varisella;varisella;452.096;74.861;1;289;1289;0;0
+290;Vauda Canavese;vauda-canavese;452.792;76.164;1;290;1290;0;0
+291;Venaus;venaus;451.596;70.092;1;291;1291;0;0
+292;Venaria Reale;venaria-reale;451.342;7.629;1;292;1292;0;0
+293;Verolengo;verolengo;451.911;79.694;1;293;1293;0;0
+294;Verrua Savoia;verrua-savoia;451.578;80.935;1;294;1294;0;0
+295;Vestignè;vestigne;453.867;79.559;1;295;1295;0;0
+296;Vialfrè;vialfre;453.812;78.177;1;296;1296;0;0
+297;Vico Canavese;vico-canavese;45.397;74.668;1;297;1297;0;0
+298;Vidracco;vidracco;454.317;77.586;1;298;1298;0;0
+299;Vigone;vigone;448.455;74.961;1;299;1299;0;0
+300;Villafranca Piemonte;villafranca-piemonte;44.78;75.016;1;300;1300;0;0
+301;Villanova Canavese;villanova-canavese;452.445;75.533;1;301;1301;0;0
+302;Villarbasse;villarbasse;450.463;74.695;1;302;1302;0;0
+303;Villar Dora;villar-dora;451.156;73.847;1;303;1303;0;0
+304;Villareggia;villareggia;453.111;79.778;1;304;1304;0;0
+305;Villar Focchiardo;villar-focchiardo;451.103;72.328;1;305;1305;0;0
+306;Villar Pellice;villar-pellice;448.094;71.533;1;306;1306;0;0
+307;Villar Perosa;villar-perosa;449.193;72.481;1;307;1307;0;0
+308;Villastellone;villastellone;449.218;77.446;1;308;1308;0;0
+309;Vinovo;vinovo;449.482;76.338;1;309;1309;0;0
+310;Virle Piemonte;virle-piemonte;448.656;75.713;1;310;1310;0;0
+311;Vische;vische;453.352;79.459;1;311;1311;0;0
+312;Vistrorio;vistrorio;45.443;77.685;1;312;1312;0;0
+313;Viù;viu;452.389;73.766;1;313;1313;0;0
+314;Volpiano;volpiano;452.015;77.773;1;314;1314;0;0
+315;Volvera;volvera;44.956;75.125;1;315;1315;0;0
+316;Alagna Valsesia;alagna-valsesia;458.542;79.374;2;2;2002;0;0
+317;Albano Vercellese;albano-vercellese;454.272;83.807;2;3;2003;0;0
+318;Alice Castello;alice-castello;453.663;80.741;2;4;2004;0;0
+319;Arborio;arborio;454.959;83.864;2;6;2006;0;0
+320;Asigliano Vercellese;asigliano-vercellese;452.625;84.097;2;7;2007;0;0
+321;Balmuccia;balmuccia;458.189;81.427;2;8;2008;0;0
+322;Balocco;balocco;454.562;82.813;2;9;2009;0;0
+323;Bianzè;bianze;453.096;81.238;2;11;2011;0;0
+324;Boccioleto;boccioleto;458.302;8.113;2;14;2014;0;0
+325;Borgo d'Ale;borgo-dale;453.527;80.519;2;15;2015;0;0
+326;Borgosesia;borgosesia;457.153;82.772;2;16;2016;0;0
+327;Borgo Vercelli;borgo-vercelli;453.589;84.642;2;17;2017;0;0
+328;Breia;breia;457.667;83.108;2;19;2019;0;0
+329;Buronzo;buronzo;454.819;82.683;2;21;2021;0;0
+330;Campertogno;campertogno;457.999;80.333;2;25;2025;0;0
+331;Carcoforo;carcoforo;459.096;80.457;2;29;2029;0;0
+332;Caresana;caresana;452.219;85.064;2;30;2030;0;0
+333;Caresanablot;caresanablot;453.585;83.931;2;31;2031;0;0
+334;Carisio;carisio;454.103;82.002;2;32;2032;0;0
+335;Casanova Elvo;casanova-elvo;45.402;82.947;2;33;2033;0;0
+336;San Giacomo Vercellese;san-giacomo-vercellese;454.992;83.278;2;35;2035;0;0
+337;Cellio;cellio;457.571;83.117;2;38;2038;0;0
+338;Cervatto;cervatto;458.829;81.633;2;41;2041;0;0
+339;Cigliano;cigliano;453.094;80.222;2;42;2042;0;0
+340;Civiasco;civiasco;458.069;82.932;2;43;2043;0;0
+341;Collobiano;collobiano;45.397;83.493;2;45;2045;0;0
+342;Costanzana;costanzana;452.372;83.711;2;47;2047;0;0
+343;Cravagliana;cravagliana;458.485;8.203;2;48;2048;0;0
+344;Crescentino;crescentino;451.914;81.011;2;49;2049;0;0
+345;Crova;crova;453.317;82.121;2;52;2052;0;0
+346;Desana;desana;452.706;8.361;2;54;2054;0;0
+347;Fobello;fobello;458.902;81.578;2;57;2057;0;0
+348;Fontanetto Po;fontanetto-po;451.942;81.927;2;58;2058;0;0
+349;Formigliana;formigliana;454.294;82.928;2;59;2059;0;0
+350;Gattinara;gattinara;456.189;83.686;2;61;2061;0;0
+351;Ghislarengo;ghislarengo;45.53;83.863;2;62;2062;0;0
+352;Greggio;greggio;454.517;83.842;2;65;2065;0;0
+353;Guardabosone;guardabosone;45.702;82.493;2;66;2066;0;0
+354;Lamporo;lamporo;452.306;80.974;2;67;2067;0;0
+355;Lenta;lenta;45.556;83.836;2;68;2068;0;0
+356;Lignana;lignana;45.287;8.345;2;70;2070;0;0
+357;Livorno Ferraris;livorno-ferraris;45.285;80.786;2;71;2071;0;0
+358;Lozzolo;lozzolo;456.265;8.324;2;72;2072;0;0
+359;Mollia;mollia;458.151;80.308;2;78;2078;0;0
+360;Moncrivello;moncrivello;453.335;79.967;2;79;2079;0;0
+361;Motta de' Conti;motta-de-conti;451.945;8.522;2;82;2082;0;0
+362;Olcenengo;olcenengo;453.646;83.109;2;88;2088;0;0
+363;Oldenico;oldenico;454.038;83.822;2;89;2089;0;0
+364;Palazzolo Vercellese;palazzolo-vercellese;451.856;82.308;2;90;2090;0;0
+365;Pertengo;pertengo;45.236;84.176;2;91;2091;0;0
+366;Pezzana;pezzana;452.631;84.863;2;93;2093;0;0
+367;Pila;pila;457.705;80.833;2;96;2096;0;0
+368;Piode;piode;45.772;80.517;2;97;2097;0;0
+369;Postua;postua;457.139;82.317;2;102;2102;0;0
+370;Prarolo;prarolo;45.281;84.777;2;104;2104;0;0
+371;Quarona;quarona;457.589;82.669;2;107;2107;0;0
+372;Quinto Vercellese;quinto-vercellese;453.806;83.628;2;108;2108;0;0
+373;Rassa;rassa;457.684;8.012;2;110;2110;0;0
+374;Rima San Giuseppe;rima-san-giuseppe;458.847;79.989;2;111;2111;0;0
+375;Rimasco;rimasco;45.86;80.639;2;112;2112;0;0
+376;Rimella;rimella;459.091;81.835;2;113;2113;0;0
+377;Riva Valdobbia;riva-valdobbia;45.832;79.578;2;114;2114;0;0
+378;Rive;rive;452.152;84.188;2;115;2115;0;0
+379;Roasio;roasio;456.058;82.871;2;116;2116;0;0
+380;Ronsecco;ronsecco;452.531;82.781;2;118;2118;0;0
+381;Rossa;rossa;45.833;81.206;2;121;2121;0;0
+382;Rovasenda;rovasenda;455.399;83.188;2;122;2122;0;0
+383;Sabbia;sabbia;45.857;82.361;2;123;2123;0;0
+384;Salasco;salasco;453.259;82.652;2;126;2126;0;0
+385;Sali Vercellese;sali-vercellese;45.311;8.33;2;127;2127;0;0
+386;Saluggia;saluggia;452.386;80.122;2;128;2128;0;0
+387;San Germano Vercellese;san-germano-vercellese;453.514;82.489;2;131;2131;0;0
+388;Santhià;santhia;453.674;81.738;2;133;2133;0;0
+389;Scopa;scopa;457.939;81.152;2;134;2134;0;0
+390;Scopello;scopello;457.736;8.096;2;135;2135;0;0
+391;Serravalle Sesia;serravalle-sesia;456.875;83.094;2;137;2137;0;0
+392;Stroppiana;stroppiana;452.312;8.455;2;142;2142;0;0
+393;Tricerro;tricerro;452.367;83.264;2;147;2147;0;0
+394;Trino;trino;451.931;82.974;2;148;2148;0;0
+395;Tronzano Vercellese;tronzano-vercellese;453.424;81.742;2;150;2150;0;0
+396;Valduggia;valduggia;457.294;83.311;2;152;2152;0;0
+397;Varallo;varallo;458.138;82.535;2;156;2156;0;0
+398;Vercelli;vercelli;45.321;84.263;2;158;2158;1;0
+399;Villarboit;villarboit;454.385;83.384;2;163;2163;0;0
+400;Villata;villata;453.888;84.338;2;164;2164;0;0
+401;Vocca;vocca;458.328;81.958;2;166;2166;0;0
+402;Agrate Conturbia;agrate-conturbia;456.774;85.584;3;1;3001;0;0
+403;Ameno;ameno;457.897;8.442;3;2;3002;0;0
+404;Armeno;armeno;458.225;8.44;3;6;3006;0;0
+405;Arona;arona;45.757;8.56;3;8;3008;0;0
+406;Barengo;barengo;45.577;85.152;3;12;3012;0;0
+407;Bellinzago Novarese;bellinzago-novarese;455.699;86.444;3;16;3016;0;0
+408;Biandrate;biandrate;454.538;84.636;3;18;3018;0;0
+409;Boca;boca;456.796;84.093;3;19;3019;0;0
+410;Bogogno;bogogno;456.644;85.357;3;21;3021;0;0
+411;Bolzano Novarese;bolzano-novarese;45.765;84.461;3;22;3022;0;0
+412;Borgolavezzaro;borgolavezzaro;453.206;87.006;3;23;3023;0;0
+413;Borgomanero;borgomanero;456.987;84.626;3;24;3024;0;0
+414;Borgo Ticino;borgo-ticino;456.903;8.603;3;25;3025;0;0
+415;Briga Novarese;briga-novarese;457.333;84.509;3;26;3026;0;0
+416;Briona;briona;455.434;8.481;3;27;3027;0;0
+417;Caltignaga;caltignaga;455.199;85.899;3;30;3030;0;0
+418;Cameri;cameri;455.042;86.639;3;32;3032;0;0
+419;Carpignano Sesia;carpignano-sesia;455.353;84.195;3;36;3036;0;0
+420;Casalbeltrame;casalbeltrame;454.388;84.663;3;37;3037;0;0
+421;Casaleggio Novara;casaleggio-novara;454.899;84.931;3;39;3039;0;0
+422;Casalino;casalino;453.594;8.525;3;40;3040;0;0
+423;Casalvolone;casalvolone;454.017;84.645;3;41;3041;0;0
+424;Castellazzo Novarese;castellazzo-novarese;455.144;84.881;3;42;3042;0;0
+425;Castelletto sopra Ticino;castelletto-sopra-ticino;457.187;86.368;3;43;3043;0;0
+426;Cavaglietto;cavaglietto;456.031;85.033;3;44;3044;0;0
+427;Cavaglio d'Agogna;cavaglio-dagogna;456.142;84.874;3;45;3045;0;0
+428;Cavallirio;cavallirio;456.644;83.956;3;47;3047;0;0
+429;Cerano;cerano;45.412;87.813;3;49;3049;0;0
+430;Colazza;colazza;457.936;85.014;3;51;3051;0;0
+431;Comignago;comignago;45.716;85.652;3;52;3052;0;0
+432;Cressa;cressa;456.492;85.102;3;55;3055;0;0
+433;Cureggio;cureggio;45.676;8.461;3;58;3058;0;0
+434;Divignano;divignano;456.635;86.028;3;60;3060;0;0
+435;Dormelletto;dormelletto;457.272;85.803;3;62;3062;0;0
+436;Fara Novarese;fara-novarese;455.528;84.599;3;65;3065;0;0
+437;Fontaneto d'Agogna;fontaneto-dagogna;456.583;84.803;3;66;3066;0;0
+438;Galliate;galliate;454.781;8.696;3;68;3068;0;0
+439;Garbagna Novarese;garbagna-novarese;453.851;86.608;3;69;3069;0;0
+440;Gargallo;gargallo;457.299;84.264;3;70;3070;0;0
+441;Gattico;gattico;457.081;85.213;3;71;3071;0;0
+442;Ghemme;ghemme;456.006;84.227;3;73;3073;0;0
+443;Gozzano;gozzano;457.475;84.378;3;76;3076;0;0
+444;Granozzo con Monticello;granozzo-con-monticello;453.613;85.746;3;77;3077;0;0
+445;Grignasco;grignasco;456.808;83.442;3;79;3079;0;0
+446;Invorio;invorio;457.579;84.895;3;82;3082;0;0
+447;Landiona;landiona;454.975;84.234;3;83;3083;0;0
+448;Lesa;lesa;458.241;85.609;3;84;3084;0;0
+449;Maggiora;maggiora;456.903;84.234;3;88;3088;0;0
+450;Mandello Vitta;mandello-vitta;454.967;84.609;3;90;3090;0;0
+451;Marano Ticino;marano-ticino;45.631;86.328;3;91;3091;0;0
+452;Massino Visconti;massino-visconti;458.222;8.54;3;93;3093;0;0
+453;Meina;meina;457.899;8.54;3;95;3095;0;0
+454;Mezzomerico;mezzomerico;456.197;86.067;3;97;3097;0;0
+455;Miasino;miasino;45.803;8.431;3;98;3098;0;0
+456;Momo;momo;455.766;85.545;3;100;3100;0;0
+457;Nebbiuno;nebbiuno;458.044;85.234;3;103;3103;0;0
+458;Nibbiola;nibbiola;453.727;86.575;3;104;3104;0;0
+459;Novara;novara;454.451;86.187;3;106;3106;1;0
+460;Oleggio;oleggio;455.967;86.376;3;108;3108;0;0
+461;Oleggio Castello;oleggio-castello;457.485;85.269;3;109;3109;0;0
+462;Orta San Giulio;orta-san-giulio;457.989;84.199;3;112;3112;0;0
+463;Paruzzaro;paruzzaro;457.497;85.177;3;114;3114;0;0
+464;Pella;pella;458.001;83.859;3;115;3115;0;0
+465;Pettenasco;pettenasco;458.175;84.081;3;116;3116;0;0
+466;Pisano;pisano;457.936;85.115;3;119;3119;0;0
+467;Pogno;pogno;457.566;83.858;3;120;3120;0;0
+468;Pombia;pombia;45.652;86.335;3;121;3121;0;0
+469;Prato Sesia;prato-sesia;456.474;83.738;3;122;3122;0;0
+470;Recetto;recetto;454.614;84.369;3;129;3129;0;0
+471;Romagnano Sesia;romagnano-sesia;45.632;83.899;3;130;3130;0;0
+472;Romentino;romentino;45.465;87.202;3;131;3131;0;0
+473;San Maurizio d'Opaglio;san-maurizio-dopaglio;457.722;83.988;3;133;3133;0;0
+474;San Nazzaro Sesia;san-nazzaro-sesia;454.389;84.255;3;134;3134;0;0
+475;San Pietro Mosezzo;san-pietro-mosezzo;454.659;85.242;3;135;3135;0;0
+476;Sillavengo;sillavengo;455.217;84.422;3;138;3138;0;0
+477;Sizzano;sizzano;455.779;84.379;3;139;3139;0;0
+478;Soriso;soriso;457.414;84.106;3;140;3140;0;0
+479;Sozzago;sozzago;453.995;87.209;3;141;3141;0;0
+480;Suno;suno;456.344;85.439;3;143;3143;0;0
+481;Terdobbiate;terdobbiate;453.775;86.964;3;144;3144;0;0
+482;Tornaco;tornaco;453.586;8.717;3;146;3146;0;0
+483;Trecate;trecate;454.327;87.382;3;149;3149;0;0
+484;Vaprio d'Agogna;vaprio-dagogna;456.047;85.547;3;153;3153;0;0
+485;Varallo Pombia;varallo-pombia;456.678;8.63;3;154;3154;0;0
+486;Veruno;veruno;456.898;85.299;3;157;3157;0;0
+487;Vespolate;vespolate;453.514;86.689;3;158;3158;0;0
+488;Vicolungo;vicolungo;454.786;84.639;3;159;3159;0;0
+489;Vinzaglio;vinzaglio;453.239;85.203;3;164;3164;0;0
+490;Acceglio;acceglio;444.752;69.907;4;1;4001;0;0
+491;Aisone;aisone;443.135;72.191;4;2;4002;0;0
+492;Alba;alba;447.009;80.353;4;3;4003;0;0
+493;Albaretto della Torre;albaretto-della-torre;445.968;80.645;4;4;4004;0;0
+494;Alto;alto;441.089;80.028;4;5;4005;0;0
+495;Argentera;argentera;448.898;69.341;4;6;4006;0;0
+496;Arguello;arguello;445.831;81.086;4;7;4007;0;0
+497;Bagnasco;bagnasco;443.073;80.463;4;8;4008;0;0
+498;Bagnolo Piemonte;bagnolo-piemonte;447.616;7.315;4;9;4009;0;0
+499;Baldissero d'Alba;baldissero-dalba;447.639;79.086;4;10;4010;0;0
+500;Barbaresco;barbaresco;44.725;80.809;4;11;4011;0;0
+501;Barge;barge;447.253;73.242;4;12;4012;0;0
+502;Barolo;barolo;446.104;79.426;4;13;4013;0;0
+503;Bastia Mondovì;bastia-mondovi;44.443;78.956;4;14;4014;0;0
+504;Battifollo;battifollo;443.215;80.071;4;15;4015;0;0
+505;Beinette;beinette;44.366;76.478;4;16;4016;0;0
+506;Bellino;bellino;445.805;70.172;4;17;4017;0;0
+507;Belvedere Langhe;belvedere-langhe;444.946;79.721;4;18;4018;0;0
+508;Bene Vagienna;bene-vagienna;445.444;78.296;4;19;4019;0;0
+509;Benevello;benevello;44.631;81.053;4;20;4020;0;0
+510;Bergolo;bergolo;445.488;81.843;4;21;4021;0;0
+511;Bernezzo;bernezzo;443.863;74.366;4;22;4022;0;0
+512;Bonvicino;bonvicino;445.047;80.171;4;23;4023;0;0
+513;Borgomale;borgomale;446.215;81.324;4;24;4024;0;0
+514;Borgo San Dalmazzo;borgo-san-dalmazzo;443.296;74.885;4;25;4025;0;0
+515;Bosia;bosia;446.025;81.479;4;26;4026;0;0
+516;Bossolasco;bossolasco;445.292;80.521;4;27;4027;0;0
+517;Boves;boves;443.292;75.518;4;28;4028;0;0
+518;Bra;bra;446.978;78.545;4;29;4029;0;0
+519;Briaglia;briaglia;443.951;78.769;4;30;4030;0;0
+520;Briga Alta;briga-alta;440.834;77.495;4;31;4031;0;0
+521;Brondello;brondello;446.017;7.407;4;32;4032;0;0
+522;Brossasco;brossasco;445.697;73.628;4;33;4033;0;0
+523;Busca;busca;451.347;92.169;4;34;4034;0;0
+524;Camerana;camerana;444.228;81.406;4;35;4035;0;0
+525;Camo;camo;446.954;81.949;4;36;4036;0;0
+526;Canale;canale;426.888;121.338;4;37;4037;0;0
+527;Canosio;canosio;444.556;70.824;4;38;4038;0;0
+528;Caprauna;caprauna;44.117;79.559;4;39;4039;0;0
+529;Caraglio;caraglio;444.205;74.341;4;40;4040;0;0
+530;Caramagna Piemonte;caramagna-piemonte;447.803;7.739;4;41;4041;0;0
+531;Cardè;carde;447.455;74.788;4;42;4042;0;0
+532;Carrù;carru;444.796;78.771;4;43;4043;0;0
+533;Cartignano;cartignano;444.789;72.861;4;44;4044;0;0
+534;Casalgrasso;casalgrasso;448.183;7.626;4;45;4045;0;0
+535;Castagnito;castagnito;447.564;80.325;4;46;4046;0;0
+536;Casteldelfino;casteldelfino;445.906;70.709;4;47;4047;0;0
+537;Castellar;castellar;446.217;74.373;4;48;4048;0;0
+538;Castelletto Stura;castelletto-stura;444.448;76.403;4;49;4049;0;0
+539;Castelletto Uzzone;castelletto-uzzone;44.499;81.879;4;50;4050;0;0
+540;Castellinaldo;castellinaldo;44.776;8.031;4;51;4051;0;0
+541;Castellino Tanaro;castellino-tanaro;444.281;79.813;4;52;4052;0;0
+542;Castelmagno;castelmagno;444.088;72.122;4;53;4053;0;0
+543;Castelnuovo di Ceva;castelnuovo-di-ceva;443.541;81.293;4;54;4054;0;0
+544;Castiglione Falletto;castiglione-falletto;446.236;79.764;4;55;4055;0;0
+545;Castiglione Tinella;castiglione-tinella;447.264;81.913;4;56;4056;0;0
+546;Castino;castino;446.189;81.836;4;57;4057;0;0
+547;Cavallerleone;cavallerleone;447.413;7.665;4;58;4058;0;0
+548;Cavallermaggiore;cavallermaggiore;44.711;76.875;4;59;4059;0;0
+549;Celle di Macra;celle-di-macra;444.828;71.806;4;60;4060;0;0
+550;Centallo;centallo;445.036;75.864;4;61;4061;0;0
+551;Ceresole Alba;ceresole-alba;448.008;78.236;4;62;4062;0;0
+552;Cerretto Langhe;cerretto-langhe;445.755;80.986;4;63;4063;0;0
+553;Cervasca;cervasca;44.382;74.724;4;64;4064;0;0
+554;Cervere;cervere;446.364;77.931;4;65;4065;0;0
+555;Ceva;ceva;443.874;8.035;4;66;4066;0;0
+556;Cherasco;cherasco;446.516;78.583;4;67;4067;0;0
+557;Chiusa di Pesio;chiusa-di-pesio;443.235;7.677;4;68;4068;0;0
+558;Cigliè;ciglie;444.375;79.277;4;69;4069;0;0
+559;Cissone;cissone;445.625;80.308;4;70;4070;0;0
+560;Clavesana;clavesana;444.834;79.018;4;71;4071;0;0
+561;Corneliano d'Alba;corneliano-dalba;447.372;79.585;4;72;4072;0;0
+562;Cortemilia;cortemilia;445.798;81.913;4;73;4073;0;0
+563;Cossano Belbo;cossano-belbo;446.698;81.993;4;74;4074;0;0
+564;Costigliole Saluzzo;costigliole-saluzzo;445.656;74.866;4;75;4075;0;0
+565;Cravanzana;cravanzana;445.736;81.284;4;76;4076;0;0
+566;Crissolo;crissolo;446.986;71.587;4;77;4077;0;0
+567;Cuneo;cuneo;443.888;75.471;4;78;4078;1;0
+568;Demonte;demonte;443.151;72.954;4;79;4079;0;0
+569;Diano d'Alba;diano-dalba;446.511;80.284;4;80;4080;0;0
+570;Dogliani;dogliani;445.306;79.459;4;81;4081;0;0
+571;Dronero;dronero;444.667;73.525;4;82;4082;0;0
+572;Elva;elva;445.399;70.898;4;83;4083;0;0
+573;Entracque;entracque;442.406;73.976;4;84;4084;0;0
+574;Envie;envie;446.833;73.724;4;85;4085;0;0
+575;Farigliano;farigliano;445.112;79.162;4;86;4086;0;0
+576;Faule;faule;44.807;75.823;4;87;4087;0;0
+577;Feisoglio;feisoglio;445.449;81.061;4;88;4088;0;0
+578;Fossano;fossano;44.55;77.238;4;89;4089;0;0
+579;Frabosa Soprana;frabosa-soprana;442.887;78.062;4;90;4090;0;0
+580;Frabosa Sottana;frabosa-sottana;443.019;77.979;4;91;4091;0;0
+581;Frassino;frassino;445.727;72.772;4;92;4092;0;0
+582;Gaiola;gaiola;443.362;74.081;4;93;4093;0;0
+583;Gambasca;gambasca;446.299;73.484;4;94;4094;0;0
+584;Garessio;garessio;442.062;80.153;4;95;4095;0;0
+585;Genola;genola;445.896;76.654;4;96;4096;0;0
+586;Gorzegno;gorzegno;445.124;81.346;4;97;4097;0;0
+587;Gottasecca;gottasecca;444.614;81.684;4;98;4098;0;0
+588;Govone;govone;448.051;80.951;4;99;4099;0;0
+589;Grinzane Cavour;grinzane-cavour;446.566;79.817;4;100;4100;0;0
+590;Guarene;guarene;447.407;80.341;4;101;4101;0;0
+591;Igliano;igliano;444.438;80.137;4;102;4102;0;0
+592;Isasca;isasca;445.874;73.809;4;103;4103;0;0
+593;Lagnasco;lagnasco;446.261;75.559;4;104;4104;0;0
+594;La Morra;la-morra;446.396;79.338;4;105;4105;0;0
+595;Lequio Berria;lequio-berria;446.075;80.981;4;106;4106;0;0
+596;Lequio Tanaro;lequio-tanaro;445.601;78.847;4;107;4107;0;0
+597;Lesegno;lesegno;444.017;79.656;4;108;4108;0;0
+598;Levice;levice;445.388;81.562;4;109;4109;0;0
+599;Limone Piemonte;limone-piemonte;442.014;75.762;4;110;4110;0;0
+600;Lisio;lisio;443.078;79.785;4;111;4111;0;0
+601;Macra;macra;445.013;71.806;4;112;4112;0;0
+602;Magliano Alfieri;magliano-alfieri;447.703;80.713;4;113;4113;0;0
+603;Magliano Alpi;magliano-alpi;444.606;78.064;4;114;4114;0;0
+604;Mango;mango;446.867;81.518;4;115;4115;0;0
+605;Manta;manta;446.169;74.881;4;116;4116;0;0
+606;Marene;marene;446.627;77.335;4;117;4117;0;0
+607;Margarita;margarita;444.046;76.861;4;118;4118;0;0
+608;Marmora;marmora;444.581;70.935;4;119;4119;0;0
+609;Marsaglia;marsaglia;447.128;93.831;4;120;4120;0;0
+610;Martiniana Po;martiniana-po;446.274;73.673;4;121;4121;0;0
+611;Melle;melle;445.627;73.214;4;122;4122;0;0
+612;Moiola;moiola;443.225;73.902;4;123;4123;0;0
+613;Mombarcaro;mombarcaro;444.682;80.867;4;124;4124;0;0
+614;Mombasiglio;mombasiglio;443.677;79.691;4;125;4125;0;0
+615;Monastero di Vasco;monastero-di-vasco;443.408;78.228;4;126;4126;0;0
+616;Monasterolo Casotto;monasterolo-casotto;443.255;79.455;4;127;4127;0;0
+617;Monasterolo di Savigliano;monasterolo-di-savigliano;446.874;76.206;4;128;4128;0;0
+618;Monchiero;monchiero;445.729;79.171;4;129;4129;0;0
+619;Mondovì;mondovi;443.896;78.206;4;130;4130;0;0
+620;Monesiglio;monesiglio;444.657;81.189;4;131;4131;0;0
+621;Monforte d'Alba;monforte-dalba;445.831;79.678;4;132;4132;0;0
+622;Montà;monta;448.147;79.585;4;133;4133;0;0
+623;Montaldo di Mondovì;montaldo-di-mondovi;443.195;78.653;4;134;4134;0;0
+624;Montaldo Roero;montaldo-roero;447.694;79.259;4;135;4135;0;0
+625;Montanera;montanera;444.633;76.667;4;136;4136;0;0
+626;Montelupo Albese;montelupo-albese;44.622;80.479;4;137;4137;0;0
+627;Montemale di Cuneo;montemale-di-cuneo;444.373;73.749;4;138;4138;0;0
+628;Monterosso Grana;monterosso-grana;444.092;73.241;4;139;4139;0;0
+629;Monteu Roero;monteu-roero;447.803;79.375;4;140;4140;0;0
+630;Montezemolo;montezemolo;443.781;81.414;4;141;4141;0;0
+631;Monticello d'Alba;monticello-dalba;44.719;79.437;4;142;4142;0;0
+632;Moretta;moretta;447.648;75.383;4;143;4143;0;0
+633;Morozzo;morozzo;444.231;77.101;4;144;4144;0;0
+634;Murazzano;murazzano;44.474;80.205;4;145;4145;0;0
+635;Murello;murello;447.531;7.602;4;146;4146;0;0
+636;Narzole;narzole;445.964;78.709;4;147;4147;0;0
+637;Neive;neive;447.264;81.158;4;148;4148;0;0
+638;Neviglie;neviglie;446.922;8.118;4;149;4149;0;0
+639;Niella Belbo;niella-belbo;445.138;80.805;4;150;4150;0;0
+640;Niella Tanaro;niella-tanaro;444.138;79.235;4;151;4151;0;0
+641;Novello;novello;445.888;79.275;4;152;4152;0;0
+642;Nucetto;nucetto;443.419;8.061;4;153;4153;0;0
+643;Oncino;oncino;446.762;71.905;4;154;4154;0;0
+644;Ormea;ormea;441.485;79.136;4;155;4155;0;0
+645;Ostana;ostana;446.931;71.868;4;156;4156;0;0
+646;Paesana;paesana;446.863;72.759;4;157;4157;0;0
+647;Pagno;pagno;446.128;74.269;4;158;4158;0;0
+648;Pamparato;pamparato;442.777;79.136;4;159;4159;0;0
+649;Paroldo;paroldo;444.331;80.736;4;160;4160;0;0
+650;Perletto;perletto;446.003;82.142;4;161;4161;0;0
+651;Perlo;perlo;443.328;80.836;4;162;4162;0;0
+652;Peveragno;peveragno;443.325;76.209;4;163;4163;0;0
+653;Pezzolo Valle Uzzone;pezzolo-valle-uzzone;445.398;81.948;4;164;4164;0;0
+654;Pianfei;pianfei;443.731;77.125;4;165;4165;0;0
+655;Piasco;piasco;445.641;7.455;4;166;4166;0;0
+656;Pietraporzio;pietraporzio;443.445;70.318;4;167;4167;0;0
+657;Piobesi d'Alba;piobesi-dalba;447.363;79.808;4;168;4168;0;0
+658;Piozzo;piozzo;445.148;78.938;4;169;4169;0;0
+659;Pocapaglia;pocapaglia;447.162;78.841;4;170;4170;0;0
+660;Polonghera;polonghera;448.035;75.969;4;171;4171;0;0
+661;Pontechianale;pontechianale;44.647;69.989;4;172;4172;0;0
+662;Pradleves;pradleves;444.188;72.814;4;173;4173;0;0
+663;Prazzo;prazzo;444.832;7.056;4;174;4174;0;0
+664;Priero;priero;443.754;80.958;4;175;4175;0;0
+665;Priocca;priocca;447.874;80.653;4;176;4176;0;0
+666;Priola;priola;442.447;80.224;4;177;4177;0;0
+667;Prunetto;prunetto;444.912;81.449;4;178;4178;0;0
+668;Racconigi;racconigi;447.711;76.841;4;179;4179;0;0
+669;Revello;revello;446.556;73.927;4;180;4180;0;0
+670;Rifreddo;rifreddo;405.738;158.267;4;181;4181;0;0
+671;Rittana;rittana;443.512;73.985;4;182;4182;0;0
+672;Roaschia;roaschia;442.702;74.543;4;183;4183;0;0
+673;Roascio;roascio;444.153;80.295;4;184;4184;0;0
+674;Robilante;robilante;442.945;75.113;4;185;4185;0;0
+675;Roburent;roburent;443.078;78.923;4;186;4186;0;0
+676;Roccabruna;roccabruna;444.806;73.363;4;187;4187;0;0
+677;Rocca Cigliè;rocca-ciglie;444.467;79.508;4;188;4188;0;0
+678;Rocca de' Baldi;rocca-de-baldi;444.243;77.619;4;189;4189;0;0
+679;Roccaforte Mondovì;roccaforte-mondovi;443.189;7.746;4;190;4190;0;0
+680;Roccasparvera;roccasparvera;443.414;74.414;4;191;4191;0;0
+681;Roccavione;roccavione;443.156;74.836;4;192;4192;0;0
+682;Rocchetta Belbo;rocchetta-belbo;44.637;81.764;4;193;4193;0;0
+683;Roddi;roddi;446.806;79.766;4;194;4194;0;0
+684;Roddino;roddino;445.739;80.191;4;195;4195;0;0
+685;Rodello;rodello;446.295;8.058;4;196;4196;0;0
+686;Rossana;rossana;445.441;74.324;4;197;4197;0;0
+687;Ruffia;ruffia;447.077;76.052;4;198;4198;0;0
+688;Sale delle Langhe;sale-delle-langhe;443.962;80.813;4;199;4199;0;0
+689;Sale San Giovanni;sale-san-giovanni;444.002;80.791;4;200;4200;0;0
+690;Saliceto;saliceto;444.144;81.699;4;201;4201;0;0
+691;Salmour;salmour;445.786;77.932;4;202;4202;0;0
+692;Saluzzo;saluzzo;446.446;74.926;4;203;4203;0;0
+693;Sambuco;sambuco;443.371;7.079;4;204;4204;0;0
+694;Sampeyre;sampeyre;445.793;71.878;4;205;4205;0;0
+695;San Benedetto Belbo;san-benedetto-belbo;444.913;80.589;4;206;4206;0;0
+696;San Damiano Macra;san-damiano-macra;444.889;72.576;4;207;4207;0;0
+697;Sanfrè;sanfre;447.509;78.038;4;208;4208;0;0
+698;Sanfront;sanfront;446.481;73.222;4;209;4209;0;0
+699;San Michele Mondovì;san-michele-mondovi;443.781;79.122;4;210;4210;0;0
+700;Sant'Albano Stura;santalbano-stura;44.51;77.234;4;211;4211;0;0
+701;Santa Vittoria d'Alba;santa-vittoria-dalba;446.997;79.384;4;212;4212;0;0
+702;Santo Stefano Belbo;santo-stefano-belbo;447.085;82.302;4;213;4213;0;0
+703;Santo Stefano Roero;santo-stefano-roero;447.891;79.408;4;214;4214;0;0
+704;Savigliano;savigliano;44.648;76.584;4;215;4215;0;0
+705;Scagnello;scagnello;443.342;79.847;4;216;4216;0;0
+706;Scarnafigi;scarnafigi;446.799;7.567;4;217;4217;0;0
+707;Serralunga d'Alba;serralunga-dalba;446.111;80.006;4;218;4218;0;0
+708;Serravalle Langhe;serravalle-langhe;445.601;80.584;4;219;4219;0;0
+709;Sinio;sinio;446.012;80.218;4;220;4220;0;0
+710;Somano;somano;445.364;80.089;4;221;4221;0;0
+711;Sommariva del Bosco;sommariva-del-bosco;447.699;77.864;4;222;4222;0;0
+712;Sommariva Perno;sommariva-perno;447.467;79.017;4;223;4223;0;0
+713;Stroppo;stroppo;445.058;71.267;4;224;4224;0;0
+714;Tarantasca;tarantasca;444.945;75.447;4;225;4225;0;0
+715;Torre Bormida;torre-bormida;445.631;81.569;4;226;4226;0;0
+716;Torre Mondovì;torre-mondovi;443.539;79.008;4;227;4227;0;0
+717;Torre San Giorgio;torre-san-giorgio;447.367;75.292;4;228;4228;0;0
+718;Torresina;torresina;444.347;80.378;4;229;4229;0;0
+719;Treiso;treiso;446.894;80.869;4;230;4230;0;0
+720;Trezzo Tinella;trezzo-tinella;446.779;81.076;4;231;4231;0;0
+721;Trinità;trinita;403.731;156.102;4;232;4232;0;0
+722;Valdieri;valdieri;442.788;73.988;4;233;4233;0;0
+723;Valgrana;valgrana;444.124;73.813;4;234;4234;0;0
+724;Valloriate;valloriate;44.338;73.721;4;235;4235;0;0
+725;Valmala;valmala;445.441;73.464;4;236;4236;0;0
+726;Venasca;venasca;44.565;7.405;4;237;4237;0;0
+727;Verduno;verduno;446.672;79.319;4;238;4238;0;0
+728;Vernante;vernante;44.245;75.345;4;239;4239;0;0
+729;Verzuolo;verzuolo;446.012;74.831;4;240;4240;0;0
+730;Vezza d'Alba;vezza-dalba;447.638;80.091;4;241;4241;0;0
+731;Vicoforte;vicoforte;443.629;78.636;4;242;4242;0;0
+732;Vignolo;vignolo;443.633;74.739;4;243;4243;0;0
+733;Villafalletto;villafalletto;445.449;75.413;4;244;4244;0;0
+734;Villanova Mondovì;villanova-mondovi;44.348;77.675;4;245;4245;0;0
+735;Villanova Solaro;villanova-solaro;447.309;75.756;4;246;4246;0;0
+736;Villar San Costanzo;villar-san-costanzo;444.841;73.811;4;247;4247;0;0
+737;Vinadio;vinadio;443.066;71.737;4;248;4248;0;0
+738;Viola;viola;442.912;79.652;4;249;4249;0;0
+739;Vottignasco;vottignasco;445.652;75.803;4;250;4250;0;0
+740;Agliano Terme;agliano-terme;447.915;82.497;5;1;5001;0;0
+741;Albugnano;albugnano;45.078;79.712;5;2;5002;0;0
+742;Antignano;antignano;448.452;81.355;5;3;5003;0;0
+743;Aramengo;aramengo;451.001;80.011;5;4;5004;0;0
+744;Asti;asti;449.009;82.068;5;5;5005;1;0
+745;Azzano d'Asti;azzano-dasti;448.754;82.679;5;6;5006;0;0
+746;Baldichieri d'Asti;baldichieri-dasti;449.054;80.908;5;7;5007;0;0
+747;Belveglio;belveglio;448.309;83.296;5;8;5008;0;0
+748;Berzano di San Pietro;berzano-di-san-pietro;450.952;79.531;5;9;5009;0;0
+749;Bruno;bruno;447.939;8.441;5;10;5010;0;0
+750;Bubbio;bubbio;446.642;8.295;5;11;5011;0;0
+751;Buttigliera d'Asti;buttigliera-dasti;450.223;79.507;5;12;5012;0;0
+752;Calamandrana;calamandrana;447.381;83.399;5;13;5013;0;0
+753;Calliano;calliano;450.094;82.558;5;14;5014;0;0
+754;Calosso;calosso;447.393;82.281;5;15;5015;0;0
+755;Camerano Casasco;camerano-casasco;449.925;80.909;5;16;5016;0;0
+756;Canelli;canelli;447.193;8.287;5;17;5017;0;0
+757;Cantarana;cantarana;451.994;120.987;5;18;5018;0;0
+758;Capriglio;capriglio;444.778;102.041;5;19;5019;0;0
+759;Casorzo;casorzo;450.234;83.381;5;20;5020;0;0
+760;Cassinasco;cassinasco;446.895;83.018;5;21;5021;0;0
+761;Castagnole delle Lanze;castagnole-delle-lanze;447.522;81.514;5;22;5022;0;0
+762;Castagnole Monferrato;castagnole-monferrato;44.96;83.048;5;23;5023;0;0
+763;Castel Boglione;castel-boglione;44.723;83.811;5;24;5024;0;0
+764;Castell'Alfero;castellalfero;449.824;82.102;5;25;5025;0;0
+765;Castellero;castellero;449.257;80.743;5;26;5026;0;0
+766;Castelletto Molina;castelletto-molina;44.751;84.325;5;27;5027;0;0
+767;Castello di Annone;castello-di-annone;448.792;83.138;5;28;5028;0;0
+768;Castelnuovo Belbo;castelnuovo-belbo;448.006;84.116;5;29;5029;0;0
+769;Castelnuovo Calcea;castelnuovo-calcea;447.892;82.851;5;30;5030;0;0
+770;Castelnuovo Don Bosco;castelnuovo-don-bosco;45.041;79.643;5;31;5031;0;0
+771;Castel Rocchero;castel-rocchero;447.196;84.149;5;32;5032;0;0
+772;Cellarengo;cellarengo;448.651;79.451;5;33;5033;0;0
+773;Celle Enomondo;celle-enomondo;448.578;81.249;5;34;5034;0;0
+774;Cerreto d'Asti;cerreto-dasti;450.496;80.367;5;35;5035;0;0
+775;Cerro Tanaro;cerro-tanaro;448.739;83.597;5;36;5036;0;0
+776;Cessole;cessole;446.501;82.454;5;37;5037;0;0
+777;Chiusano d'Asti;chiusano-dasti;44.985;81.181;5;38;5038;0;0
+778;Cinaglio;cinaglio;449.762;81.013;5;39;5039;0;0
+779;Cisterna d'Asti;cisterna-dasti;448.251;80.038;5;40;5040;0;0
+780;Coazzolo;coazzolo;447.283;81.455;5;41;5041;0;0
+781;Cocconato;cocconato;450.886;80.395;5;42;5042;0;0
+782;Corsione;corsione;45.003;8.146;5;44;5044;0;0
+783;Cortandone;cortandone;44.96;80.574;5;45;5045;0;0
+784;Cortanze;cortanze;450.153;80.892;5;46;5046;0;0
+785;Cortazzone;cortazzone;449.798;80.618;5;47;5047;0;0
+786;Cortiglione;cortiglione;448.235;83.583;5;48;5048;0;0
+787;Cossombrato;cossombrato;449.927;81.366;5;49;5049;0;0
+788;Costigliole d'Asti;costigliole-dasti;44.785;8.182;5;50;5050;0;0
+789;Cunico;cunico;450.404;80.969;5;51;5051;0;0
+790;Dusino San Michele;dusino-san-michele;449.267;79.727;5;52;5052;0;0
+791;Ferrere;ferrere;448.783;79.942;5;53;5053;0;0
+792;Fontanile;fontanile;447.539;84.225;5;54;5054;0;0
+793;Frinco;frinco;450.049;81.719;5;55;5055;0;0
+794;Grana;grana;449.994;83.006;5;56;5056;0;0
+795;Grazzano Badoglio;grazzano-badoglio;450.404;8.312;5;57;5057;0;0
+796;Incisa Scapaccino;incisa-scapaccino;448.088;83.751;5;58;5058;0;0
+797;Isola d'Asti;isola-dasti;448.291;81.778;5;59;5059;0;0
+798;Loazzolo;loazzolo;446.698;82.582;5;60;5060;0;0
+799;Maranzana;maranzana;447.605;84.787;5;61;5061;0;0
+800;Maretto;maretto;449.453;80.348;5;62;5062;0;0
+801;Moasca;moasca;447.631;82.787;5;63;5063;0;0
+802;Mombaldone;mombaldone;445.721;83.366;5;64;5064;0;0
+803;Mombaruzzo;mombaruzzo;447.721;84.484;5;65;5065;0;0
+804;Mombercelli;mombercelli;448.174;82.944;5;66;5066;0;0
+805;Monale;monale;449.353;80.727;5;67;5067;0;0
+806;Monastero Bormida;monastero-bormida;446.487;83.258;5;68;5068;0;0
+807;Moncalvo;moncalvo;450.512;82.664;5;69;5069;0;0
+808;Moncucco Torinese;moncucco-torinese;450.649;79.331;5;70;5070;0;0
+809;Mongardino;mongardino;448.487;82.178;5;71;5071;0;0
+810;Montabone;montabone;446.988;83.901;5;72;5072;0;0
+811;Montafia;montafia;449.897;80.241;5;73;5073;0;0
+812;Montaldo Scarampi;montaldo-scarampi;448.314;82.602;5;74;5074;0;0
+813;Montechiaro d'Asti;montechiaro-dasti;450.083;81.125;5;75;5075;0;0
+814;Montegrosso d'Asti;montegrosso-dasti;448.217;82.388;5;76;5076;0;0
+815;Montemagno;montemagno;438.475;10.94;5;77;5077;0;0
+816;Moransengo;moransengo;451.158;80.246;5;79;5079;0;0
+817;Nizza Monferrato;nizza-monferrato;447.748;8.355;5;80;5080;0;0
+818;Olmo Gentile;olmo-gentile;445.862;82.484;5;81;5081;0;0
+819;Passerano Marmorito;passerano-marmorito;45.071;80.213;5;82;5082;0;0
+820;Penango;penango;450.315;82.506;5;83;5083;0;0
+821;Piea;piea;450.232;80.681;5;84;5084;0;0
+822;Pino d'Asti;pino-dasti;450.575;79.863;5;85;5085;0;0
+823;Piovà Massaia;piova-massaia;450.536;80.492;5;86;5086;0;0
+824;Portacomaro;portacomaro;449.582;82.576;5;87;5087;0;0
+825;Quaranti;quaranti;44.751;8.45;5;88;5088;0;0
+826;Refrancore;refrancore;449.365;83.438;5;89;5089;0;0
+827;Revigliasco d'Asti;revigliasco-dasti;44.859;81.586;5;90;5090;0;0
+828;Roatto;roatto;449.524;8.027;5;91;5091;0;0
+829;Robella;robella;451.014;81.028;5;92;5092;0;0
+830;Rocca d'Arazzo;rocca-darazzo;448.721;82.848;5;93;5093;0;0
+831;Roccaverano;roccaverano;445.925;8.272;5;94;5094;0;0
+832;Rocchetta Palafea;rocchetta-palafea;447.077;83.437;5;95;5095;0;0
+833;Rocchetta Tanaro;rocchetta-tanaro;448.596;83.448;5;96;5096;0;0
+834;San Damiano d'Asti;san-damiano-dasti;448.347;8.065;5;97;5097;0;0
+835;San Giorgio Scarampi;san-giorgio-scarampi;446.122;82.419;5;98;5098;0;0
+836;San Martino Alfieri;san-martino-alfieri;448.182;81.092;5;99;5099;0;0
+837;San Marzano Oliveto;san-marzano-oliveto;447.543;82.959;5;100;5100;0;0
+838;San Paolo Solbrito;san-paolo-solbrito;449.517;79.719;5;101;5101;0;0
+839;Scurzolengo;scurzolengo;449.657;82.788;5;103;5103;0;0
+840;Serole;serole;445.546;82.601;5;104;5104;0;0
+841;Sessame;sessame;446.712;83.374;5;105;5105;0;0
+842;Settime;settime;449.632;81.138;5;106;5106;0;0
+843;Soglio;soglio;449.974;80.795;5;107;5107;0;0
+844;Tigliole;tigliole;448.866;80.767;5;108;5108;0;0
+845;Tonco;tonco;450.248;81.909;5;109;5109;0;0
+846;Tonengo;tonengo;451.188;80.019;5;110;5110;0;0
+847;Vaglio Serra;vaglio-serra;447.974;8.34;5;111;5111;0;0
+848;Valfenera;valfenera;44.903;79.674;5;112;5112;0;0
+849;Vesime;vesime;446.361;82.283;5;113;5113;0;0
+850;Viale;viale;450.011;80.502;5;114;5114;0;0
+851;Viarigi;viarigi;449.813;8.358;5;115;5115;0;0
+852;Vigliano d'Asti;vigliano-dasti;44.835;82.303;5;116;5116;0;0
+853;Villafranca d'Asti;villafranca-dasti;44.913;80.328;5;117;5117;0;0
+854;Villanova d'Asti;villanova-dasti;449.422;79.377;5;118;5118;0;0
+855;Villa San Secondo;villa-san-secondo;450.049;8.135;5;119;5119;0;0
+856;Vinchio;vinchio;44.812;8.322;5;120;5120;0;0
+857;Montiglio Monferrato;montiglio-monferrato;450.662;80.985;5;121;5121;0;0
+858;Acqui Terme;acqui-terme;446.755;84.707;6;1;6001;0;0
+859;Albera Ligure;albera-ligure;447.032;9.066;6;2;6002;0;0
+860;Alessandria;alessandria;449.132;8.617;6;3;6003;1;0
+861;Alfiano Natta;alfiano-natta;450.476;82.083;6;4;6004;0;0
+862;Alice Bel Colle;alice-bel-colle;44.727;84.519;6;5;6005;0;0
+863;Alluvioni Cambiò;alluvioni-cambio;450.024;87.963;6;6;6006;0;0
+864;Altavilla Monferrato;altavilla-monferrato;449.945;8.377;6;7;6007;0;0
+865;Alzano Scrivia;alzano-scrivia;450.191;88.817;6;8;6008;0;0
+866;Arquata Scrivia;arquata-scrivia;44.688;88.857;6;9;6009;0;0
+867;Avolasca;avolasca;448.037;89.656;6;10;6010;0;0
+868;Balzola;balzola;451.845;84.045;6;11;6011;0;0
+869;Basaluzzo;basaluzzo;447.686;87.023;6;12;6012;0;0
+870;Bassignana;bassignana;450.022;8.732;6;13;6013;0;0
+871;Belforte Monferrato;belforte-monferrato;446.261;86.611;6;14;6014;0;0
+872;Bergamasco;bergamasco;448.283;8.456;6;15;6015;0;0
+873;Berzano di Tortona;berzano-di-tortona;448.785;89.523;6;16;6016;0;0
+874;Bistagno;bistagno;446.613;83.714;6;17;6017;0;0
+875;Borghetto di Borbera;borghetto-di-borbera;447.307;89.438;6;18;6018;0;0
+876;Borgoratto Alessandrino;borgoratto-alessandrino;448.374;85.397;6;19;6019;0;0
+877;Borgo San Martino;borgo-san-martino;450.887;85.238;6;20;6020;0;0
+878;Bosco Marengo;bosco-marengo;448.245;86.776;6;21;6021;0;0
+879;Bosio;bosio;446.508;87.939;6;22;6022;0;0
+880;Bozzole;bozzole;45.071;86.071;6;23;6023;0;0
+881;Brignano-Frascata;brignano-frascata;448.139;9.041;6;24;6024;0;0
+882;Cabella Ligure;cabella-ligure;446.749;90.969;6;25;6025;0;0
+883;Camagna Monferrato;camagna-monferrato;450.188;8.431;6;26;6026;0;0
+884;Camino;camino;413.848;139.337;6;27;6027;0;0
+885;Cantalupo Ligure;cantalupo-ligure;447.192;90.461;6;28;6028;0;0
+886;Capriata d'Orba;capriata-dorba;447.288;86.895;6;29;6029;0;0
+887;Carbonara Scrivia;carbonara-scrivia;448.502;8.871;6;30;6030;0;0
+888;Carentino;carentino;448.281;84.701;6;31;6031;0;0
+889;Carezzano;carezzano;448.082;89.013;6;32;6032;0;0
+890;Carpeneto;carpeneto;459.964;131.775;6;33;6033;0;0
+891;Carrega Ligure;carrega-ligure;446.192;91.758;6;34;6034;0;0
+892;Carrosio;carrosio;446.592;88.327;6;35;6035;0;0
+893;Cartosio;cartosio;445.912;84.217;6;36;6036;0;0
+894;Casal Cermelli;casal-cermelli;448.352;86.256;6;37;6037;0;0
+895;Casaleggio Boiro;casaleggio-boiro;446.345;87.316;6;38;6038;0;0
+896;Casale Monferrato;casale-monferrato;451.372;84.509;6;39;6039;0;0
+897;Casalnoceto;casalnoceto;449.141;89.833;6;40;6040;0;0
+898;Casasco;casasco;448.289;9.006;6;41;6041;0;0
+899;Cassano Spinola;cassano-spinola;447.634;88.615;6;42;6042;0;0
+900;Cassine;cassine;447.509;85.289;6;43;6043;0;0
+901;Cassinelle;cassinelle;446.025;85.645;6;44;6044;0;0
+902;Castellania;castellania;447.984;89.298;6;45;6045;0;0
+903;Castellar Guidobono;castellar-guidobono;44.906;89.471;6;46;6046;0;0
+904;Castellazzo Bormida;castellazzo-bormida;448.461;85.785;6;47;6047;0;0
+905;Castelletto d'Erro;castelletto-derro;446.274;83.949;6;48;6048;0;0
+906;Castelletto d'Orba;castelletto-dorba;446.856;87.045;6;49;6049;0;0
+907;Castelletto Merli;castelletto-merli;450.748;82.413;6;50;6050;0;0
+908;Castelletto Monferrato;castelletto-monferrato;449.822;85.656;6;51;6051;0;0
+909;Castelnuovo Bormida;castelnuovo-bormida;447.437;85.467;6;52;6052;0;0
+910;Castelnuovo Scrivia;castelnuovo-scrivia;449.814;88.824;6;53;6053;0;0
+911;Castelspina;castelspina;448.072;85.842;6;54;6054;0;0
+912;Cavatore;cavatore;446.312;84.523;6;55;6055;0;0
+913;Cella Monte;cella-monte;45.075;83.927;6;56;6056;0;0
+914;Cereseto;cereseto;445.758;9.678;6;57;6057;0;0
+915;Cerreto Grue;cerreto-grue;448.436;89.314;6;58;6058;0;0
+916;Cerrina Monferrato;cerrina-monferrato;451.204;82.156;6;59;6059;0;0
+917;Coniolo;coniolo;45.383;99.749;6;60;6060;0;0
+918;Conzano;conzano;450.213;84.543;6;61;6061;0;0
+919;Costa Vescovato;costa-vescovato;448.171;89.273;6;62;6062;0;0
+920;Cremolino;cremolino;44.637;85.864;6;63;6063;0;0
+921;Cuccaro Monferrato;cuccaro-monferrato;449.932;84.569;6;64;6064;0;0
+922;Denice;denice;445.996;83.333;6;65;6065;0;0
+923;Dernice;dernice;447.675;90.514;6;66;6066;0;0
+924;Fabbrica Curone;fabbrica-curone;447.849;91.476;6;67;6067;0;0
+925;Felizzano;felizzano;449.003;84.371;6;68;6068;0;0
+926;Fraconalto;fraconalto;445.919;88.779;6;69;6069;0;0
+927;Francavilla Bisio;francavilla-bisio;447.356;87.324;6;70;6070;0;0
+928;Frascaro;frascaro;448.275;85.335;6;71;6071;0;0
+929;Frassinello Monferrato;frassinello-monferrato;45.033;83.869;6;72;6072;0;0
+930;Frassineto Po;frassineto-po;451.347;85.355;6;73;6073;0;0
+931;Fresonara;fresonara;447.839;86.874;6;74;6074;0;0
+932;Frugarolo;frugarolo;448.381;86.827;6;75;6075;0;0
+933;Fubine;fubine;449.658;84.269;6;76;6076;0;0
+934;Gabiano;gabiano;451.578;81.964;6;77;6077;0;0
+935;Gamalero;gamalero;448.098;85.418;6;78;6078;0;0
+936;Garbagna;garbagna;447.814;89.989;6;79;6079;0;0
+937;Gavazzana;gavazzana;447.767;88.857;6;80;6080;0;0
+938;Gavi;gavi;446.887;88.029;6;81;6081;0;0
+939;Giarole;giarole;450.616;85.677;6;82;6082;0;0
+940;Gremiasco;gremiasco;447.969;91.059;6;83;6083;0;0
+941;Grognardo;grognardo;446.314;84.935;6;84;6084;0;0
+942;Grondona;grondona;446.972;8.966;6;85;6085;0;0
+943;Guazzora;guazzora;450.147;88.525;6;86;6086;0;0
+944;Isola Sant'Antonio;isola-santantonio;450.307;88.502;6;87;6087;0;0
+945;Lerma;lerma;446.365;87.153;6;88;6088;0;0
+946;Lu;lu;450.025;84.858;6;89;6089;0;0
+947;Malvicino;malvicino;445.592;84.144;6;90;6090;0;0
+948;Masio;masio;448.706;84.089;6;91;6091;0;0
+949;Melazzo;melazzo;44.645;84.261;6;92;6092;0;0
+950;Merana;merana;445.188;8.298;6;93;6093;0;0
+951;Mirabello Monferrato;mirabello-monferrato;450.366;85.244;6;94;6094;0;0
+952;Molare;molare;446.197;86.017;6;95;6095;0;0
+953;Molino dei Torti;molino-dei-torti;450.253;88.949;6;96;6096;0;0
+954;Mombello Monferrato;mombello-monferrato;451.339;82.514;6;97;6097;0;0
+955;Momperone;momperone;448.389;90.353;6;98;6098;0;0
+956;Moncestino;moncestino;451.556;81.625;6;99;6099;0;0
+957;Mongiardino Ligure;mongiardino-ligure;446.391;90.602;6;100;6100;0;0
+958;Monleale;monleale;448.853;8.975;6;101;6101;0;0
+959;Montacuto;montacuto;447.667;91.051;6;102;6102;0;0
+960;Montaldeo;montaldeo;446.681;8.73;6;103;6103;0;0
+961;Montaldo Bormida;montaldo-bormida;446.838;85.889;6;104;6104;0;0
+962;Montecastello;montecastello;436.352;106.956;6;105;6105;0;0
+963;Montechiaro d'Acqui;montechiaro-dacqui;445.955;83.799;6;106;6106;0;0
+964;Montegioco;montegioco;448.419;89.629;6;107;6107;0;0
+965;Montemarzino;montemarzino;448.489;89.926;6;108;6108;0;0
+966;Morano sul Po;morano-sul-po;451.683;83.674;6;109;6109;0;0
+967;Morbello;morbello;446.066;8.511;6;110;6110;0;0
+968;Mornese;mornese;446.376;87.565;6;111;6111;0;0
+969;Morsasco;morsasco;446.664;85.521;6;112;6112;0;0
+970;Murisengo;murisengo;450.828;81.361;6;113;6113;0;0
+971;Novi Ligure;novi-ligure;447.618;87.861;6;114;6114;0;0
+972;Occimiano;occimiano;450.612;85.088;6;115;6115;0;0
+973;Odalengo Grande;odalengo-grande;45.11;81.681;6;116;6116;0;0
+974;Odalengo Piccolo;odalengo-piccolo;45.072;82.072;6;117;6117;0;0
+975;Olivola;olivola;45.038;83.681;6;118;6118;0;0
+976;Orsara Bormida;orsara-bormida;446.913;85.639;6;119;6119;0;0
+977;Ottiglio;ottiglio;450.525;83.384;6;120;6120;0;0
+978;Ovada;ovada;446.375;86.465;6;121;6121;0;0
+979;Oviglio;oviglio;448.624;84.889;6;122;6122;0;0
+980;Ozzano Monferrato;ozzano-monferrato;451.068;83.716;6;123;6123;0;0
+981;Paderna;paderna;448.216;88.924;6;124;6124;0;0
+982;Pareto;pareto;445.175;8.383;6;125;6125;0;0
+983;Parodi Ligure;parodi-ligure;446.707;87.581;6;126;6126;0;0
+984;Pasturana;pasturana;447.519;87.503;6;127;6127;0;0
+985;Pecetto di Valenza;pecetto-di-valenza;449.908;8.672;6;128;6128;0;0
+986;Pietra Marazzi;pietra-marazzi;449.438;86.697;6;129;6129;0;0
+987;Piovera;piovera;449.596;8.737;6;130;6130;0;0
+988;Pomaro Monferrato;pomaro-monferrato;450.635;85.968;6;131;6131;0;0
+989;Pontecurone;pontecurone;449.613;8.935;6;132;6132;0;0
+990;Pontestura;pontestura;451.434;83.344;6;133;6133;0;0
+991;Ponti;ponti;446.294;83.653;6;134;6134;0;0
+992;Ponzano Monferrato;ponzano-monferrato;450.855;82.632;6;135;6135;0;0
+993;Ponzone;ponzone;456.557;81.896;6;136;6136;0;0
+994;Pozzol Groppo;pozzol-groppo;448.776;90.292;6;137;6137;0;0
+995;Pozzolo Formigaro;pozzolo-formigaro;447.963;87.859;6;138;6138;0;0
+996;Prasco;prasco;446.397;85.524;6;139;6139;0;0
+997;Predosa;predosa;447.524;86.566;6;140;6140;0;0
+998;Quargnento;quargnento;449.459;84.881;6;141;6141;0;0
+999;Quattordio;quattordio;448.974;84.061;6;142;6142;0;0
+1000;Ricaldone;ricaldone;447.335;84.692;6;143;6143;0;0
